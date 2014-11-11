@@ -1,0 +1,4 @@
+char c = bit;
+bit = '!';
+bit >>= 1; // double the ascii value from 33 to 66 ('B')
+//above code is semi-done add new below
