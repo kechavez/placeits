@@ -3,3 +3,10 @@ this is line 2
 this is wrong line 4
 this is correct line 4
 new line 5
+	stuff is done here
+	for (int i=0; i<10; i++)
+		cout << "whatever\n";
+	do{
+		cout << "pretty much done here" << endl;
+	} while (0) // no need to print this more than once, just a test
+continue @line 12
